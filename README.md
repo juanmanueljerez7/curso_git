@@ -3,4 +3,4 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
-# ESTA ES OTRA WA
+# ESTA ES OTRA WA desde github
