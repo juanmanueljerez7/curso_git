@@ -3,14 +3,4 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
-## Notas
-Pueden hacer lo que quieran...
-
-
-### edito esta gua
-esta es una edicion
-
-#### otra de prueba
-
-
-# este es un  titulo grande
+# ESTA ES OTRA WA
